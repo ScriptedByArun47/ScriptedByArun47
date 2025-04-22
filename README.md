@@ -19,6 +19,8 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github" />
   <img src="https://img.shields.io/badge/-Cybersecurity-FF5733?style=flat&logo=hackthebox&logoColor=white" />
+  
+
 </p>
 
 ---
@@ -30,7 +32,9 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptedByArun47&layout=compact&theme=radical" />
 </p>
-
+<p>
+  <img src="banner.png" alt="banner" width="100%" />
+</p>
 ---
 
 ### 🔗 Connect with Me
