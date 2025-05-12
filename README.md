@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm ArunKumar L</h1>
 <h3 align="center">Python dev by day, cybersecurity enthusiast by night 🐍💻🛡️</h3>
 
-- 🌦️ Currently working on: **Premium Weather App using KivyMD**
+- 🌦️ Currently working on:🛡️ PENTURION - Advanced Automated Web Pentesting Framework
 - 🔐 Recently built: **PasswordCrackJS** — Node.js tool for password generation and brute-force simulation
 - 🔍 Exploring: Android app development with Buildozer
 - 🧠 Learning: System design, Python internals, and cross-platform UI
