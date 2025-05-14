@@ -33,9 +33,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptedByArun47&layout=compact&theme=radical" />
 </p>
-<p>
-  <img src="banner.png" alt="banner" width="100%" />
-</p>
+
 
 ---
 
