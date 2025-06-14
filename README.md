@@ -1,5 +1,6 @@
-<h1 align="center">Hey 👋, I'm ArunKumar L</h1>
-<h3 align="center">Python dev by day, cybersecurity enthusiast by night 🐍💻🛡️</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+ArunKumar+L.;Python+Dev+%7C+Pentester+%7C+Recon+Wizard;Automating+The+Dark+Side+of+The+Web" alt="Typing SVG" />
+</h1>
 
 - 🌦️ Currently working on:🛡️ PENTURION - Advanced Automated Web Pentesting Framework
 - 🔐 Recently built: **PasswordCrackJS** — Node.js tool for password generation and brute-force simulation
