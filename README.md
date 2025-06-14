@@ -62,7 +62,7 @@
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="www.linkedin.com/in/arun-kumar-6a3b3a2a3" target="_blank">
+  <a href="www.linkedin.com/in/arun-kumar047019202902" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
