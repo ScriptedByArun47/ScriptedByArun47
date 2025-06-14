@@ -27,17 +27,48 @@
 ---
 
 ### 📊 GitHub Stats
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=ScriptedByArun47&show_icons=true&theme=radical" />
+<div style="overflow-x: auto;">
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ScriptedByArun47&show_icons=true&theme=radical&cache_seconds=3600" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptedByArun47&layout=compact&theme=radical&cache_seconds=3600" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+### 📈 Activity Graph 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ScriptedByArun47&theme=github-compact&hide_border=true" />
 </p>
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptedByArun47&layout=compact&theme=radical" />
-</p>
+
+
+
 
 
 ---
 
 ### 🔗 Connect with Me
-<p>
-  <a href="mailto:akisback049@gmail.com">Email: akisback049@gmail.com</a>
+<p align="center">
+  <a href="mailto:akisback049@gmail.com">
+    <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+
+
+  <a href="https://www.instagram.com/scriptedbyarun47?igsh=Nm5tc2V3MXB2ZXVm" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+
+  <a href="www.linkedin.com/in/arun-kumar-6a3b3a2a3" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2090383" target="_blank">
+    <img src="https://img.shields.io/badge/-TryHackMe-%23cc0000?style=for-the-badge&logo=tryhackme&logoColor=white" />
+  </a>
 </p>
+
+
