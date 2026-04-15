@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👾 ArunKumar L — `ScriptedByArun47`
+# 👾 ArunKumar L — `Arun1x`
 
 ### Cybersecurity Enthusiast | Pentester-in-Training | Python Developer
 
