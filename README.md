@@ -100,7 +100,7 @@ I'm a **B.Tech IT student** and aspiring **Cybersecurity professional** from Tam
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=ScriptedByArun47&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Arun1.png)](https://tryhackme.com/p/Arun1x)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Arun1x.png)](https://tryhackme.com/p/Arun1x)
 
 </div>
 
