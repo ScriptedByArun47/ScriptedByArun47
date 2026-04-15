@@ -6,7 +6,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arun1x.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/arun0x47)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/ARUNEXPLOIT012)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Arun1x)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ScriptedByArun47)
 
 </div>
@@ -98,11 +98,9 @@ I'm a **B.Tech IT student** and aspiring **Cybersecurity professional** from Tam
 
 <div align="center">
 
-![ArunKumar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ScriptedByArun47&show_icons=true&theme=radical&hide_border=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=ScriptedByArun47&theme=radical&hide_border=true)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ScriptedByArun47&layout=compact&theme=radical&hide_border=true)
-
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/ARUNEXPLOIT012.png)
+[![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/Arun1.png)](https://tryhackme.com/p/Arun1x)
 
 </div>
 
@@ -113,7 +111,7 @@ I'm a **B.Tech IT student** and aspiring **Cybersecurity professional** from Tam
 - 📧 arun47akkumar@gmail.com
 - 🌐 [Portfolio](https://arun1x.vercel.app/)
 - 💼 [LinkedIn](http://www.linkedin.com/in/arun0x47)
-- 🎯 [TryHackMe](https://tryhackme.com/p/ARUNEXPLOIT012)
+- 🎯 [TryHackMe](https://tryhackme.com/p/Arun1x)
 
 ---
 
