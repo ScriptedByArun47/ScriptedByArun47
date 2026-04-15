@@ -17,11 +17,10 @@
 
 > *"Breaking things to understand how to protect them."*
 
-I'm a **B.Tech IT student** and aspiring **Cybersecurity professional** from Tamil Nadu, India. I specialize in penetration testing workflows, web application security, and security scripting — with 120+ hands-on labs under my belt and a **Top 2% ranking on TryHackMe**.
+I'm a **B.Tech IT student** and aspiring **Cybersecurity professional** from Tamil Nadu, India. I specialize in penetration testing workflows, web application security, and security scripting — with 250+ hands-on labs under my belt and a **Top 1% ranking on TryHackMe**.
 
-- 🎯 Target Roles: `Cybersecurity Intern` · `SOC Analyst Intern` · `Vulnerability Assessment Intern`
 - 🛠️ Currently building **PENTURION** — an automated web pentesting framework
-- 🌱 Constantly learning offensive security, blue teaming, and Python automation
+- 🌱 Constantly learning offensive security, Red teaming, and Python automation
 - 📍 Based in Perambalur, Tamil Nadu
 
 ---
