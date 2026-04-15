@@ -80,7 +80,7 @@ I'm a **B.Tech IT student** and aspiring **Cybersecurity professional** from Tam
 
 | 🏅 Achievement | Details |
 |---|---|
-| 🥇 **TryHackMe Top 2%** | 120+ labs in web exploitation, privilege escalation & offensive security |
+| 🥇 **TryHackMe Top 1%** | 250+ labs in web exploitation, privilege escalation & offensive security |
 | 🔬 **HackRx 6.0 (Bajaj Finserv)** | Advanced to Pre-Final Round with a multilingual LLM document understanding system |
 | 🤖 **Smart India Hackathon 2025** | Selected to build an AI-based Document Summarizer for KMRL |
 
