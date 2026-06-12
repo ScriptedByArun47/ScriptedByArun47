@@ -2,7 +2,7 @@
 
 # 👾 ArunKumar L — `Arun1x`
 
-### Cybersecurity Enthusiast | Pentester-in-Training | Python Developer
+### Cybersecurity Enthusiast | Web Application Pentester |Bug Hunter |Python Developer 
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arun1x.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/arun0x47)
